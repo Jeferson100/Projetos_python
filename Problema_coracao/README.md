@@ -11,9 +11,9 @@ Informação de Atributo:
 
 Apenas 14 atributos usados:
 
-3 (idade):idade: idade em anos//
+idade: idade em anos//
 
-4sexo: sexo (1 = masculino; 0 = feminino)//
+sexo (1 = masculino; 0 = feminino)//
 
 cp: tipo de dor no peito Valor 1: angina típica Valor 2: angina atípica Valor 3: dor não anginosa Valor 4: assintomático// 
 
@@ -25,9 +25,9 @@ fbs: (açúcar no sangue em jejum> 120 mg / dl) (1 = verdadeiro; 0 = falso)//
 
 restecg: resultados eletrocardiográficos em repouso Valor 0: normal Valor 1: tendo anormalidade da onda ST-T (inversões da onda T e / ou elevação ou depressão de ST> 0,05mV) Valor 2: mostrando hipertrofia ventricular esquerda provável ou definitiva pelos critérios de Estes// 
 
-32 thalach: freqüência cardíaca máxima alcançada// 
+thalach: freqüência cardíaca máxima alcançada// 
 
-38 exang: angina induzida por exercício (1 = sim; 0 = não)// 
+exang: angina induzida por exercício (1 = sim; 0 = não)// 
 
 oldpeak = depressão de ST induzida por exercício em relação ao repouso// 
 
@@ -35,7 +35,7 @@ inclinação: a inclinação do pico do segmento ST do exercício Valor 1: incli
 
 ca: número de vasos principais (0-3) coloridos por fluorosopia// 
 
-51 tal: 3 = normal; 6 = defeito corrigido; 7 = defeito reversível// 
+tal: 3 = normal; 6 = defeito corrigido; 7 = defeito reversível// 
 
-58 num: diagnóstico de doença cardíaca (status da doença angiográfica) Valor 0: estreitamento do diâmetro <50% Valor 1: estreitamento do diâmetro> 50%
+num: diagnóstico de doença cardíaca (status da doença angiográfica) Valor 0: estreitamento do diâmetro <50% Valor 1: estreitamento do diâmetro> 50%
 
