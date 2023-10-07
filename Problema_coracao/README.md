@@ -1,4 +1,4 @@
-##Descrição do projeto
+<h1>Descrição do projeto</h1>
 
 Este projeto tem como objetivo prever a probabilidade de uma pessoa desenvolver problemas cardíacos com base em uma série de atributos médicos. 
 O conjunto de dados utilizado contém inicialmente 76 atributos, mas a pesquisa se concentra no uso de um subconjunto essencial de 14 deles.
