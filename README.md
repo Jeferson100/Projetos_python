@@ -1,5 +1,7 @@
 # Projetos_python
 
+![Imagem python](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png)
+
 <h1>Descrição:</h1>
 
 Bem-vindo ao repositório "Projetos Python"! Este é o lugar onde compartilho uma variedade de projetos empolgantes e úteis que desenvolvo usando a 
