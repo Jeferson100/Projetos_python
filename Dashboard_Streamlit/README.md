@@ -20,7 +20,6 @@ Junte-se a uma comunidade de desenvolvedores entusiastas do Streamlit e comparti
 Este projeto é uma colaboração aberta, e encorajamos contribuições e feedback. Sua experiência e insights podem ajudar a melhorar este recurso para todos.
 
 <h2>Recursos Adicionais:</h2>
-Link para a documentação oficial do Streamlit
-Fórum Streamlit
 <a href="https://streamlit.io/docs/" target="_blank">Documentação oficial do Streamlit</a><br>
+
 <a href="https://discuss.streamlit.io/" target="_blank">Fórum Streamlit</a>
